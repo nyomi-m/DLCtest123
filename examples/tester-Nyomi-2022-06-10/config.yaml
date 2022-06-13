@@ -6,7 +6,7 @@ multianimalproject: true
 identity: false
 
     # Project path (change when moving around)
-project_path: C:\Users\morrisnc\git\DeepLabCut\examples\tester-Nyomi-2022-06-10
+project_path: C:\Users\morrisnc\git\DLCtest123\examples\tester-Nyomi-2022-06-10
 
     # Annotation data set configuration (and individual video cropping parameters)
 video_sets:
